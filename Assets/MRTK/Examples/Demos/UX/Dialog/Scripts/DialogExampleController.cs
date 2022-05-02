@@ -128,5 +128,10 @@ namespace Microsoft.MixedReality.Toolkit.Examples.Experimental.DialogTest
         {
             Dialog.Open(DialogPrefabMedium, DialogButtonType.OK, "Massey AR Fire Escape", "Good Job!", true);
         }
+
+        public void OpenCustomDialog(string message)
+        {
+            Dialog.Open(DialogPrefabMedium, DialogButtonType.OK, "Massey AR Fire Escape", message, true);
+        }
     }
 }

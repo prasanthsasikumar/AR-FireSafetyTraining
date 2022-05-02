@@ -16,6 +16,8 @@ namespace Microsoft.MixedReality.Toolkit.Examples.Demos
         [SerializeField]
         private TextMeshPro textMesh = null;
 
+        public GameObject fire;
+
         public void OnSliderUpdated(SliderEventData eventData)
         {
             if (textMesh == null)
@@ -26,6 +28,8 @@ namespace Microsoft.MixedReality.Toolkit.Examples.Demos
             if (textMesh != null)
             {
                 textMesh.text = $"{eventData.NewValue:F2}";
+                float scaleValue = float.Parse(textMesh.text)/10f;
+                fire.transform.localScale = new Vector3(scaleValue, scaleValue, scaleValue);
             }
         }
     }
