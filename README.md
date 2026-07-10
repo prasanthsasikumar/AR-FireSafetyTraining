@@ -10,6 +10,8 @@ Built with Unity, MRTK, and Vuforia Engine for spatial anchoring and object reco
 
 ![Fire Safety HoloLens](media/FireSafety_Hololens.jpg)
 
+![Massey Team](media/Massey_team.jpg)
+
 ## Demo
 
 [![AR Fire Safety Training Demo](https://img.youtube.com/vi/Dd5F2EmlHQU/0.jpg)](https://youtu.be/Dd5F2EmlHQU)
