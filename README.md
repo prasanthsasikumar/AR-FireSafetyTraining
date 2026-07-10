@@ -1,6 +1,6 @@
-# HoloFireEscape
+# AR-FireSafetyTraining
 
-Augmented reality fire escape training prototype for Microsoft HoloLens 2.
+Augmented reality fire safety training prototype for Microsoft HoloLens 2.
 
 ## Overview
 
