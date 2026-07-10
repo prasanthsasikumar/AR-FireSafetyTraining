@@ -8,6 +8,12 @@ An optical see-through augmented reality application for building fire safety tr
 
 Built with Unity, MRTK, and Vuforia Engine for spatial anchoring and object recognition.
 
+![Fire Safety HoloLens](media/FireSafety_Hololens.jpg)
+
+## Demo
+
+[![AR Fire Safety Training Demo](https://img.youtube.com/vi/Dd5F2EmlHQU/0.jpg)](https://youtu.be/Dd5F2EmlHQU)
+
 ## Publications
 
 - **Optical see-through augmented reality fire safety training for building occupants** -- Paes, D., Feng, Z., King, M., Shad, H.K., Sasikumar, P., Pujoni, D., Lovreglio, R. Automation in Construction 162, 105371, 2024. [[DOI]](https://doi.org/10.1016/j.autcon.2024.105371)
